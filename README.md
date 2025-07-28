@@ -12,9 +12,7 @@ This is a Python-based GUI tool that allows you to download all videos from a Yo
 - 🔊 Shows basic metadata (title, artist, etc.)
 - 📦 No ads, no bloat – just your music
 
-## 📸 Screenshots
 
-*(You can add screenshots here after uploading your UI to GitHub)*
 
 ## 🛠️ How It Works
 
